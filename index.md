@@ -33,7 +33,8 @@ Johanna Beyer (Head TF)
 ### Course Sessions
 
 **Lectures & Labs:**   
-Monday and Wednesday 2:15-3:30pm, Location: TBA
+*College students:* Monday and Wednesday 2:15-3:30pm, Location: TBA
+
 *DCE students:* Monday (7:00-7:45pm) and Thursday (7:00-8:30pm), online video conference.
 
 **Office Hours:**  
@@ -48,6 +49,7 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/92515)
 
 * Carolina Nobre - Postdoctoral Fellow
 * Simon Warchal - Phd Candidate, Visual Computing Group
+* TBA
 
 
 
