@@ -19,7 +19,7 @@ In this course you will learn how the human visual system processes and perceive
 This website is for both the Harvard college CS 171 course and the Harvard Extension School CSCI E-171 course.
 
 **Limited enrollment:** To provide the best possible learning experience this course has limited enrollment. We only admit 80 college students and 40 Extension school students.  
-*College students:* If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available once the shopping period has started.** The survey is available on our Canvas page.  
+*College students:* If you are interested in joining this course please complete HW 0 and the enrollment survey on our Canvas page. **The deadline for the enrollment survey is Aug 24th.** You will be notified about your enrollment on the 25th and have to confirm enrollment by end of day of Aug 25th or your spot will be given away.
 *DCE students:* Course enrollment is on a first-come, first-serve basis.
 
 **Cross-registering college students:** To get access to the course's Canvas page you will have to 1) get an XID [here](http://xid.harvard.edu/); 2) send an e-mail to staff@cs171.org with the subject 'Canvas ID'; 3) the e-mail needs to contain your Name, e-mail and XID.
@@ -33,7 +33,7 @@ Johanna Beyer (Head TF)
 ### Course Sessions
 
 **Lectures & Labs:**   
-*College students:* Monday and Wednesday 2:15-3:30pm, Location: TBA
+*College students:* Monday and Wednesday 2:15-3:30pm, Location: 114 Western Ave, Room 2111+2112
 
 *DCE students:* Monday (7:00-7:45pm) and Thursday (7:00-8:30pm), online video conference.
 
@@ -49,7 +49,12 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/92515)
 
 * Carolina Nobre - Postdoctoral Fellow
 * Simon Warchal - Phd Candidate, Visual Computing Group
-* TBA
+* Kidist Alemu - Computer Science concentrator (MBB)
+* Rucha Joshi - Statistics concentrator
+* Sophia Sun - Statistics concentrator
+* Elizabeth Ling - Computer Science concentrator
+* Anya Zinoveva - DCE TF
+* Amy Zhou - DCE TF, Microsoft
 
 
 
