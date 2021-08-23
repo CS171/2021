@@ -22,7 +22,7 @@ This website is for both the Harvard college CS 171 course and the Harvard Exten
 *College students:* If you are interested in joining this course please complete HW 0 and the enrollment survey on our Canvas page. **The deadline for the enrollment survey is Aug 24th.** You will be notified about your enrollment on the 25th and have to confirm enrollment by end of day of Aug 25th or your spot will be given away.
 *DCE students:* Course enrollment is on a first-come, first-serve basis.
 
-**Cross-registering college students:** To get access to the course's Canvas page you will have to 1) get an XID [here](http://xid.harvard.edu/); 2) send an e-mail to staff@cs171.org with the subject 'Canvas ID'; 3) the e-mail needs to contain your Name, e-mail and XID.
+**Cross-registering college students:** To get access to the course's Canvas page you will have to 1) get an XID [here](http://xid.harvard.edu/); 2) send an e-mail to jbeyer@g.harvard.edu with the subject 'Canvas ID'; 3) the e-mail needs to contain your Name, e-mail and XID.
 
 ### Instructor and TFs
 
@@ -54,7 +54,8 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/92515)
 * Sophia Sun - Statistics concentrator
 * Elizabeth Ling - Computer Science concentrator
 * Anya Zinoveva - DCE TF
-* Amy Zhou - DCE TF, Microsoft
+* Amy Zhou - DCE TF
+* Ray Ortigas - DCE TF
 
 
 

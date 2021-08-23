@@ -106,7 +106,7 @@ Quizzes (10%)
 Homework Assignments (30%)
 Guided Project (20%)
 Final Project (30%)
-Your participation grade includes watching lecture videos, participating in class and on EdStem, and being helpful to other students. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to <staff@cs171.org> within one week of receiving the grade.
+Your participation grade includes watching lecture videos, participating in class and on EdStem, and being helpful to other students. We will drop your lowest quiz score. Any concerns about grading errors must be clearly articulated in writing and sent to <jbeyer@g.harvard.edu> within one week of receiving the grade.
 
 We will map your points to letter grades using the following table:
 
@@ -158,7 +158,7 @@ You may discuss your homework and labs with other students, but you are expected
 Using sources responsibly (https://extension.harvard.edu/for-students/support-and-services/using-sources-effectively-and-responsibly/Links to an external site.) is an essential part of your Harvard education. We provide additional information about our expectations regarding academic integrity on our website. We invite you to review that information and to check your understanding of academic citation rules by completing two free online 15-minute tutorials that are also available on our site. (The tutorials are anonymous open-learning tools.)
 
 ### Accessibility
-*College students:* Any student receiving accommodations through the Accessible Education Office should email their AEO letter to <staff@cs171.org> as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
+*College students:* Any student receiving accommodations through the Accessible Education Office should email their AEO letter to <jbeyer@g.harvard.edu> as soon as possible. Failure to do so may prevent us from making appropriate arrangements.
 
 *DCE students:* Harvard Extension School is committed to providing an inclusive, accessible academic community for students with disabilities and chronic health conditions. The Accessibility Services Office (ASO) (https://extension.harvard.edu/for-students/support-and-services/accessibility-services/Links to an external site.) offers accommodations and supports to students with documented disabilities. If you have a need for accommodations or adjustments, contact Accessibility Services directly via email at accessibility@extension.harvard.edu or by phone at 617-998-9640.
 
