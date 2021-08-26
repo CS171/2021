@@ -53,6 +53,7 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/92515)
 * Rucha Joshi - Statistics concentrator
 * Sophia Sun - Statistics concentrator
 * Elizabeth Ling - Computer Science concentrator
+* Rebecca Brand - Master in Design Engineering '23
 * Anya Zinoveva - DCE TF
 * Amy Zhou - DCE TF
 * Ray Ortigas - DCE TF
