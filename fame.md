@@ -6,17 +6,33 @@ order: 8
 menu: Fame
 ---
 
+## Best Projects Fall 2021
+These are the best projects (out of 41 in total) in 2020.
+
+### Winner
+[Is it Getting Hot in Here? Global Changes in Extreme Weather](https://climate-crew.github.io/d3-climate-visualization/)
+Alejandro Romero, Matthew Stewart, Nada Tarkhan, Maximilan Urbany
+
+### Runner Up
+[That's so Fetch!](https://fihenry.github.io/thats_so_fetch_final_project/)
+Jessica Chen, Fiona Henry, Xinyi Li
+
+### Honorable Mention
+[Locked Down - A story of human movement in the US during 2020](https://aspartate.github.io/lockdown-mobility/)
+Angel Hsu, Jimmy Young, Andrew Zhang
+
+
 ## Best Projects Fall 2020
-These are the best projects (out of 41 in total) in 2020. 
+These are the best projects (out of 41 in total) in 2020.
 
 ### Winner
 [Dive In - Exploring the Charles River's Health](https://mjnickerson.github.io/)
-Barbara Kulaga, Micah Nickerson, Venus Nnadi, Lucia Salwen 
+Barbara Kulaga, Micah Nickerson, Venus Nnadi, Lucia Salwen
 
 ### Runner Up
 [Under the influence - A visual story on global alcohol consumption and abuse
 ](https://nina3719.github.io/Under-The-Influence/)
-Peitong Chen, Nina Chen, Tiange Wang 
+Peitong Chen, Nina Chen, Tiange Wang
 
 [Squirrels in the City](https://jadaleee.github.io/squirrels/)
 Jada Lee, Lizzy Ling, Iris Su
@@ -30,7 +46,7 @@ Juan Carlos Lopez, Michael Mancinelli, Zane Wolf
 
 
 ## Best Projects Fall 2019
-These are the best projects (out of 31 in total) in 2019. 
+These are the best projects (out of 31 in total) in 2019.
 
 ### Winner
 [Marvel Cinematic Universe](https://patsukhum.github.io/Marvel/)
@@ -42,11 +58,11 @@ Guangyu Du, Runjia Tian, Lucy Yip
 
 ### Honorable Mention
 [Bits of Food](https://bitsoffood.andwonders.works/)
-Yuefeng Cui, Kaitlyn Germain, Jared Jessup, Kelly Wang 
+Yuefeng Cui, Kaitlyn Germain, Jared Jessup, Kelly Wang
 
 
 ## Best Projects Fall 2018
-These are the best projects (out of 26 in total) in 2018. 
+These are the best projects (out of 26 in total) in 2018.
 
 ### Winner
 [Visualizing the Harvard Q-Guide](http://jangeffert.com/the-visual-q/)
@@ -63,7 +79,7 @@ Jess Eng, Cassandra Kane, Lucy Li, and Jarele Soyinka
 Katy McKeough, Andrea Porelli, Nicholas Ruta, Josh Seides
 
 ## Best Projects Fall 2017
-These are the best projects (out of 25 in total) in 2017. 
+These are the best projects (out of 25 in total) in 2017.
 
 ### Winner
 [Who Wins in the Sharing Economy?](https://sharing-economy-cs171.herokuapp.com/)
@@ -87,7 +103,7 @@ Christine Zhang, Kevin Huang and Jesse Zhang
 Katherine Loboda and Samuel Stone
 
 ## Best Projects Fall 2016
-These are the best projects (out of 20 in total) in 2016. 
+These are the best projects (out of 20 in total) in 2016.
 
 ### Winner
 [Through the Eyes of the Survivor](https://hathix.github.io/through-the-eyes-of-a-survivor/)
@@ -125,7 +141,7 @@ Marius de Vogel, Craig Houston, and Dominick Peluso
 Kyle Maguire, Rick Farmer, Kartik Trasi and Adam DiChiara
 
 
-People's Choice: 
+People's Choice:
 [Global Network](http://mariajayne.github.io/global-network/views/frontpage.html)
 Jacob Scherba, Maria Zlatkova, Aksel Reiten, Magnus Moan
 
@@ -142,9 +158,9 @@ Sol Girouard
 
 [The 2016 Election](http://nhi1605.github.io/)
 Adam Janes, Nhi Ho
-    
+
 [Flowing Shanghai](http://web.mit.edu/zhanzhao/www/flowing-shanghai/)
-Zhan Zhao, Sebastian Fischer, Alpha Jacob Arsano 
+Zhan Zhao, Sebastian Fischer, Alpha Jacob Arsano
 
 [Data Behind Champions](https://achchg.github.io/)
 Chi-Hsuan Chang, Zhuyun Xiao, Ji Hua, Yufei Gui
@@ -215,15 +231,15 @@ Aaron Zampaglione, Filip Piasevoli, David Brown
 
 ## Best Projects 2014
 
-These are the best projects (out of 79 in total) in 2014. Within the sections the order is alphabetical. 
+These are the best projects (out of 79 in total) in 2014. Within the sections the order is alphabetical.
 
 ### Winner
 
 ![]({{ site.baseurl }}/assets/i/pie.jpg)
-[Century of Corn](http://jbencook.github.io/cs171-ag-viz/) 
-Benjamin Cook, Charles Hornbaker, Conor Myhrvold, Ryan King. 
+[Century of Corn](http://jbencook.github.io/cs171-ag-viz/)
+Benjamin Cook, Charles Hornbaker, Conor Myhrvold, Ryan King.
 
-The prize for our winners: a 3D pie chart! We took a bite though! 
+The prize for our winners: a 3D pie chart! We took a bite though!
 
 
 
@@ -247,10 +263,10 @@ Jonathan Marks
 [Eye to the Sky. Chandra Edition.](http://chandra.phptime.biz/)
 Pat O'Brien, Katherine Wyman, Daniel Schultz
 
-[Not Safe Anymore (NSA)](http://notsafeanymo.appspot.com/) 
+[Not Safe Anymore (NSA)](http://notsafeanymo.appspot.com/)
 Shreyas Dube, Christopher Gerber
 
-[owlhub. Insights](http://insights.owlhub.co/) 
+[owlhub. Insights](http://insights.owlhub.co/)
 Arne Zeising, Hendrik Makait, Keda Che
 
 [SEAS](http://theredsetter.com/cs171)
@@ -294,7 +310,7 @@ Rob Acheson, Jeff Fontas
 
 #### Runner Ups
 
-[Identification of Mutations that affect Protein Functions](http://mu-8.com) 
+[Identification of Mutations that affect Protein Functions](http://mu-8.com)
 John Mercer, Balaji Pandian
 
 [Project Cork](http://www.mdegen.com/vis/project3/)
@@ -330,7 +346,7 @@ Tamar Rucham
 Jeff Fontas, Rob Acheson
 
 [Visualizing Aid Data](https://googledrive.com/host/0B6YljmV-VTJZcElIUWlVZGIzTmM/index.html)
-Kevin Sun, Albert Young 
+Kevin Sun, Albert Young
 
 #### Runner Ups
 
