@@ -7,7 +7,7 @@ menu: Fame
 ---
 
 ## Best Projects Fall 2021
-These are the best projects (out of 41 in total) in 2020.
+These are the best projects (out of 29 in total) in 2021.
 
 ### Winner
 [Is it Getting Hot in Here? Global Changes in Extreme Weather](https://climate-crew.github.io/d3-climate-visualization/)
